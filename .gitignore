@@ -9,7 +9,6 @@ __pycache__/
 *.onnx
 
 # Generated videos, heatmaps, and inference artifacts
-output/
 runs/
 
 # Local input videos
