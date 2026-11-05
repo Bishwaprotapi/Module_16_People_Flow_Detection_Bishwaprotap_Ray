@@ -11,12 +11,6 @@ __pycache__/
 # Generated videos, heatmaps, and inference artifacts
 runs/
 
-# Local input videos
-videos/
-*.mp4
-*.avi
-*.mov
-
 # IDE and OS files
 .idea/
 .vscode/
