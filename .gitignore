@@ -1,0 +1,25 @@
+# Python environments and bytecode
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Downloaded model weights
+*.pt
+*.onnx
+
+# Generated videos, heatmaps, and inference artifacts
+output/
+runs/
+
+# Local input videos
+videos/
+*.mp4
+*.avi
+*.mov
+
+# IDE and OS files
+.idea/
+.vscode/
+Thumbs.db
+Desktop.ini
